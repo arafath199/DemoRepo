@@ -6,6 +6,8 @@ public class TestBase {
 		System.out.println("test method");
 	}
 	
-	
+	public void testok() {
+		System.out.println("testok method");
+	}
 
 }
